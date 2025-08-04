@@ -7,11 +7,7 @@
  * @date Aug 04 2025
  * @brief Basic Pong-style mini-game with a single paddle using SDL2.
  * @see https://wiki.libsdl.org/SDL2/
- * 
- * g++ sdl_single_paddle_game.cc -o pong -lSDL2
  */
-
-// curl -L -o OpenSans-Bold.ttf https://fonts.gstatic.com/s/opensans/v34/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf
 
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
